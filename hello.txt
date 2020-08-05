@@ -1,4 +1,9 @@
 hi
 hello
 hhhhhh
+<<<<<<< HEAD
 hi look im also udate without pull
+=======
+look for merge part hi babes cmd2 hahahahah 
+>>>>>>> 32ab8bd8e1159f98202221ffb64b1b873e2b7023
+lol
